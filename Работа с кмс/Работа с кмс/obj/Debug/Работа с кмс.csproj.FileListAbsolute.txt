@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\Работа с кмс\Работа с кмс\bin\Debug\Работа с кмс.exe.config
+C:\Users\1\source\repos\Работа с кмс\Работа с кмс\bin\Debug\Работа с кмс.exe
+C:\Users\1\source\repos\Работа с кмс\Работа с кмс\bin\Debug\Работа с кмс.pdb
+C:\Users\1\source\repos\Работа с кмс\Работа с кмс\obj\Debug\Работа с кмс.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Работа с кмс\Работа с кмс\obj\Debug\Работа_с_кмс.Form1.resources
+C:\Users\1\source\repos\Работа с кмс\Работа с кмс\obj\Debug\Работа_с_кмс.Properties.Resources.resources
+C:\Users\1\source\repos\Работа с кмс\Работа с кмс\obj\Debug\Работа с кмс.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Работа с кмс\Работа с кмс\obj\Debug\Работа с кмс.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Работа с кмс\Работа с кмс\obj\Debug\Работа с кмс.exe
+C:\Users\1\source\repos\Работа с кмс\Работа с кмс\obj\Debug\Работа с кмс.pdb
